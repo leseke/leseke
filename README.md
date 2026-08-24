@@ -36,6 +36,12 @@ Reproducible Python/pandas proof-of-concept for inventory trend analysis, produc
 
 Repository: [leseke/Inventory-Trends-Demo](https://github.com/leseke/Inventory-Trends-Demo)
 
+### PDF Table Extractor Demo
+
+Reproducible Python proof-of-concept for batch extraction of structured native-text PDF tables into CSV, with schema validation, merged output, execution reporting and automated tests. Samples are generated synthetically and no client data is included.
+
+Repository: [leseke/PDF-Table-Extractor-Demo](https://github.com/leseke/PDF-Table-Extractor-Demo)
+
 ---
 
 ## Working method
