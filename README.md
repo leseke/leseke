@@ -14,33 +14,23 @@ My approach is simple: understand the current process, define a clear scope, bui
 - data cleaning, validation and transformation;
 - PDF / structured-data processing;
 - recurring reporting workflows;
+- REST API integrations;
 - small internal business tools;
-- API integrations;
 - Python and C#/.NET development;
 - tested, documented automation prototypes.
 
-## Public demos
+## Public proof portfolio
 
-### CleanFlow
+| Demo | What it proves |
+|---|---|
+| [CleanFlow](https://github.com/leseke/CleanFlow) | CSV cleaning, validation, normalization and deduplication in the browser. [Live demo](https://leseke.github.io/CleanFlow/) |
+| [Inventory Trends Demo](https://github.com/leseke/Inventory-Trends-Demo) | Python/pandas analysis, stock rotation, stockouts, seasonality and recommendations using synthetic data. |
+| [PDF Table Extractor Demo](https://github.com/leseke/PDF-Table-Extractor-Demo) | Batch extraction of structured native-text PDF tables into CSV with validation, reporting and automated tests. |
+| [Excel Reporting Demo](https://github.com/leseke/Excel-Reporting-Demo) | Repeatable Excel reporting, budget vs actuals, KPIs, rolling metrics and generated dashboard charts. |
+| [API Automation Demo](https://github.com/leseke/API-Automation-Demo) | REST/JSON retrieval, validation, transformation, filtering and CSV export with deterministic tests. |
+| [C# Business Tool Demo](https://github.com/leseke/CSharp-Business-Tool-Demo) | .NET business rules, workflow state, local persistence and automated tests in a bounded internal-tool example. |
 
-Browser-based CSV cleaning and deduplication tool.
-
-It normalizes common data formats, flags invalid values, removes duplicates and exports cleaned data with a quality report.
-
-Repository: [leseke/CleanFlow](https://github.com/leseke/CleanFlow)  
-Live demo: [CleanFlow](https://leseke.github.io/CleanFlow/)
-
-### Inventory Trends Demo
-
-Reproducible Python/pandas proof-of-concept for inventory trend analysis, product rotation, stockout detection, seasonality and replenishment recommendations using synthetic data.
-
-Repository: [leseke/Inventory-Trends-Demo](https://github.com/leseke/Inventory-Trends-Demo)
-
-### PDF Table Extractor Demo
-
-Reproducible Python proof-of-concept for batch extraction of structured native-text PDF tables into CSV, with schema validation, merged output, execution reporting and automated tests. Samples are generated synthetically and no client data is included.
-
-Repository: [leseke/PDF-Table-Extractor-Demo](https://github.com/leseke/PDF-Table-Extractor-Demo)
+All public demos use synthetic or generic data. They are proofs of engineering patterns, not claims about previous paid client work.
 
 ---
 
@@ -58,8 +48,8 @@ I use AI-assisted development when it is useful, while keeping responsibility fo
 
 ## Technologies
 
-`C#` `.NET` `Python` `JavaScript` `HTML/CSS` `Git` `GitHub Actions` `API` `JSON` `CSV` `SQL`
+`C#` `.NET` `Python` `JavaScript` `HTML/CSS` `Git` `GitHub Actions` `API` `JSON` `CSV` `Excel` `SQL`
 
 ## Small project?
 
-If you have a repetitive CSV, Excel, reporting or data-processing task, describe the current workflow and I can assess whether it is a good candidate for automation.
+If you have a repetitive CSV, Excel, reporting, API or data-processing task, describe the current workflow and I can assess whether it is a good candidate for automation.
