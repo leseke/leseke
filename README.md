@@ -21,16 +21,20 @@ My approach is simple: understand the current process, define a clear scope, bui
 
 ## Public proof portfolio
 
-| Demo | What it proves |
+Six focused proofs cover the main kinds of work I can adapt for a client. Each demo uses synthetic or generic data and is presented as a proof of capability, not as previous paid client work.
+
+| Demo | Client-facing proof |
 |---|---|
 | [CleanFlow](https://github.com/leseke/CleanFlow) | CSV cleaning, validation, normalization and deduplication in the browser. [Live demo](https://leseke.github.io/CleanFlow/) |
-| [Inventory Trends Demo](https://github.com/leseke/Inventory-Trends-Demo) | Python/pandas analysis, stock rotation, stockouts, seasonality and recommendations using synthetic data. |
-| [PDF Table Extractor Demo](https://github.com/leseke/PDF-Table-Extractor-Demo) | Batch extraction of structured native-text PDF tables into CSV with validation, reporting and automated tests. |
-| [Excel Reporting Demo](https://github.com/leseke/Excel-Reporting-Demo) | Repeatable Excel reporting, budget vs actuals, KPIs, rolling metrics and generated dashboard charts. |
-| [API Automation Demo](https://github.com/leseke/API-Automation-Demo) | REST/JSON retrieval, validation, transformation, filtering and CSV export with deterministic tests. |
-| [C# Business Tool Demo](https://github.com/leseke/CSharp-Business-Tool-Demo) | .NET business rules, workflow state, local persistence and automated tests in a bounded internal-tool example. |
+| [Inventory Trends Demo](https://github.com/leseke/Inventory-Trends-Demo) | Inventory analysis, stock rotation, stockouts, seasonality and actionable recommendations with Python/pandas. |
+| [PDF Table Extractor Demo](https://github.com/leseke/PDF-Table-Extractor-Demo) | Structured native-text PDF tables → validated CSV, execution report and automated tests. |
+| [Excel Reporting Demo](https://github.com/leseke/Excel-Reporting-Demo) | Raw monthly data → repeatable Excel reporting, budget vs actuals, KPIs, rolling metrics and dashboard charts. |
+| [API Automation Demo](https://github.com/leseke/API-Automation-Demo) | REST/JSON retrieval → validation, transformation, filtering and clean export with deterministic tests. |
+| [C# Business Tool Demo](https://github.com/leseke/CSharp-Business-Tool-Demo) | Small .NET business workflow with validation, state changes, local persistence and automated tests. |
 
-All public demos use synthetic or generic data. They are proofs of engineering patterns, not claims about previous paid client work.
+### How I use these proofs
+
+For a proposal, I send the **single closest proof** to the client's problem rather than a generic portfolio dump. When a strong opportunity needs something more specific, I can prepare a small synthetic-data micro-proof focused on the riskiest part of the requested workflow before the full project begins.
 
 ---
 
